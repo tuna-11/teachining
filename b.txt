@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello denver and aurora
+=======
+hello denver, and colorado
+>>>>>>> d3642ad3e0c192cec032c9e5d98db70ceb286f50
