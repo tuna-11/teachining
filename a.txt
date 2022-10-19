@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my first file , it is mine
+=======
+my first file to add one
+>>>>>>> 9e4c849077b25c3bfe69998ca99fba5e1d8be791
